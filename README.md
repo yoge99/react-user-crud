@@ -1,3 +1,19 @@
+ User Management App (React + TypeScript + JSON Server)
+
+A dynamic and extensible User Management application built using React and TypeScript.
+
+This application supports:
+- ✅ Create User
+- ✅ Read Users
+- ✅ Update User
+- ✅ Delete User
+- ✅ Dynamic form generation using config
+- ✅ Basic validation
+- ✅ API integration using JSON Server
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
